@@ -1,0 +1,52 @@
+
+
+h2{
+    color:greenyellow;
+}
+h3{
+    background-color: aqua;
+    color:white
+}
+
+
+
+
+section{
+    width: 100vw;
+    height: 50vh;
+    background-color: blue;
+}
+
+div{
+    width:50%;
+    height:100%;
+    background-color:rgb(235, 5, 5);
+}
+
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-transform: capitalize;
+    text-align: center;
+    text-decoration: underline;
+    P{
+        color: rgb(16, 226, 27);
+        font-family:cursive;
+        font-size: small;
+        text-decoration:solid;
+    }
+}
+p{
+    line-height:30px;
+    word-spacing: 10px;
+}
+
+
+
+div2{
+    border-top:2px solid orange;
+    border-bottom: 2px solid turquoise;
+    border-left :2px solid blueviolet;
+    border-right:2px solid green;
+}
+

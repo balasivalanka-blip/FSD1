@@ -1,0 +1,133 @@
+
+
+    /*div{
+    /*height:100vh;
+    background-color: aquamarine;
+    background: url("https://plus.unsplash.com/premium_photo-1765918652390-b0ae8f1187f7?q=80&w=2950&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-attachment: fixed;
+    filter:blur(2px);
+
+    
+
+    /* gradient
+    height:100vh;
+    background-image:linear-gradient(to right,rgba(255, 166, 0, 0.462),rgba(0, 0, 255, 0.38),rgba(0, 128, 0, 0.521)), url("https://plus.unsplash.com/premium_photo-1765918652390-b0ae8f1187f7?q=80&w=2950&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-attachment: fixed;}*/
+
+/* advanced selectors
+.one{
+    color: red;
+}
+
+.two{
+    font-size: 4rem;
+}
+
+#one{
+    color: blue;
+}*/
+ /* *{
+    border: 2px solid red;
+}
+*/
+/*
+section *{
+    border:2px solid teal;
+}*/
+
+
+/*pseudo class selectors
+.link:link{
+    color: red;
+}
+
+.visited:visited{
+    color: orange;
+} 
+
+
+.hover:hover{
+    color: skyblue;
+}      
+.active:active{
+    color: yellow;
+}*/
+
+/*
+.fa-house{
+    color: rgb(73, 10, 233);
+}*/
+/*
+div{
+    width: 200px;
+    height: 200px;
+    background-color: coral;
+    box-shadow: 10px 10px 5px rgb(247, 178, 178);
+}*/
+/* 
+body{
+    background-color: black;
+    
+}
+h1{
+    background-color: rgb(12, 173, 237);
+    text-shadow: 3px 3px 4px red;
+    font-size:5rem;
+    text-align: center;
+    margin-top: 20px;
+} */
+/*
+.parent{
+    color:rgb(13, 255, 0);
+    font-size: 2rem;
+    font-family: sans-serif;
+    font-weight: bold;
+    width: 100px;
+    height: 100px;
+    background: rgb(12, 115, 115);
+}
+.children{
+    position:relative;
+    left:100px;
+    background: inherit;
+    width:inherit;
+    height:inherit;
+
+}*/
+
+/*
+.container{
+    background:darkgray;
+    height:500px;
+    width: 90%;
+}
+.d{
+    width:100px;
+    height:100px;
+}
+
+.one{
+    background: red;
+    left:200px;
+    position: relative;
+
+}
+
+.two{
+    background: blue;
+    position: absolute;
+    left:400px;
+}
+
+.three{
+    background: green;
+    position: absolute;
+    left:200px;
+}
+*/
